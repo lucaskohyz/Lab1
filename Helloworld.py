@@ -1,3 +1,4 @@
 print("hellowprint")
 print ("Hello")
-print("Ok buddy")
+
+print("ok new ne wnew")
